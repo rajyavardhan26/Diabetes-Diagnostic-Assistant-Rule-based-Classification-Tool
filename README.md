@@ -1,0 +1,2 @@
+# Diabetes-Diagnostic-Assistant-Rule-based-Classification-Tool
+A lightweight CLI tool that classifies an individual’s glucose status as Diabetes, Prediabetes, or Normal using ADA-style thresholds applied to common measurements: A1C, fasting plasma glucose (FPG), OGTT 2-hour glucose, and random plasma glucose (RPG) with symptoms. It supports both mg/dL and mmol/L units and offers optional CSV batch processing.
